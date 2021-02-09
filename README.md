@@ -1,1 +1,1 @@
-# data_science_harvard_cs109b
+# Course materials and practice problems sets for CS109b
